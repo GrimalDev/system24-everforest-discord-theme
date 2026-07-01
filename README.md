@@ -1,5 +1,3 @@
-# MOMENTARILY BROKEN BECAUSE OF DISCORD UI UPDATE
-
 # system24-everforest
 
 A terminal user interface (TUI) styled Discord theme based on [system24](https://github.com/refact0r/system24) by refact0r, featuring the Everforest color palette. This theme combines the clean, minimalist aesthetic of system24 with the soothing, nature-inspired colors of Everforest.
